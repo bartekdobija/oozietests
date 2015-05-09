@@ -1,2 +1,1 @@
-# oozietests
-Oozie workflow &amp; coordinator test configuration
+### Simple Oozie Workflow & Coordinator Tests
